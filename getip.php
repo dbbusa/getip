@@ -15,5 +15,5 @@ function getIP(){
 if (getIP() == "175.100.128.4")
     echo "You Can Login Using -> ".getIP();
 else
-    echo "Invalid IP Address Please Contact Your Admin";
+    echo "Invalid IP ";
 ?>
